@@ -12,7 +12,7 @@
 
   - Alejandro Moreno
   - Marc García
-  - Juan Carlos
+  - Juan Carlos Rodríguez
   - Pepe López </p>
 
 
